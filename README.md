@@ -120,3 +120,13 @@ CARGECAR --- Зарядовая плотность
 
 EIGENVAL --- Собстванные числа
 
+
+Псевдопотенциалы
+/opt/VASP_6.4.2/Pseudo
+
+Структуры
+
+materialsproject.org
+materialscloud.org
+
+
